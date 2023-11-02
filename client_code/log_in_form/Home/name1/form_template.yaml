@@ -12,6 +12,14 @@ components:
     properties: {text: button_1}
     name: button_1
     layout_properties: {slot: title, grid_position: 'SVWRQQ,DUTZXM'}
+  - type: TextBox
+    properties: {}
+    name: text_box_1
+    layout_properties: {grid_position: 'QNOJVW,YFFVRW'}
+  - type: TextBox
+    properties: {}
+    name: text_box_2
+    layout_properties: {grid_position: 'QNOJVW,GDRXHQ'}
 - type: FlowPanel
   properties: {}
   name: navbar_links
